@@ -1,0 +1,18 @@
+{
+  "acceptCookies": {
+    "value": "//*[@id='cookiescript_accept']",
+    "type": "xpath"
+  },
+  "clickLoginButton": {
+    "value": "//div[@class='menu-top-button login']",
+    "type": "xpath"
+  },
+  "search_Input": {
+    "value": "search-input",
+    "type": "id"
+  },
+  "newUserButton": {
+    "value": "//div[@class='menu-top-button register']",
+    "type": "xpath"
+  }
+}
